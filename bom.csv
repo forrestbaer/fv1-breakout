@@ -1,0 +1,29 @@
+Ref,Value,Footprint
+"C1, C2, C3, C4, C5,",100n,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+"C6, C7,",10u,Panasonic SMD Cap
+"D1,",LED,3mm led for clipping
+"D2, D3,",1N5819,"schottky diode fine, for reverse power protection"
+"H1,",M3 Mount,MountingHole:MountingHole_3.2mm_M3
+"J1,",L-IN,thonkiconn
+"J2,",R-IN,thonkiconn
+"J3,",CV1,thonkiconn
+"J4,",CV2,thonkiconn
+"J5,",CV3,thonkiconn
+"J6,",L-OUT,thonkiconn
+"J7,",R-OUT,thonkiconn
+"J8,",EURO_PWR_2x5,2x5 pin header
+"J9,",SRC Selector,1x3 header
+"J10,",I2C,1x3 header
+"R1, R2, R3, R4, R5, R6,",6k8,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+"R7, R9, R27, R28,",330k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+"R8, R10, R11, R12, R13, R16, R19, R22, R23, R24, R25, R26,",100k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+"R14, R17, R20,",33k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+"R15, R18, R21,",303k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+"R29, R30, R31, R32, R33, R34, R35, R36,",10k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+"RL1,",1k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+"RV1, RV2, RV3,",10k,Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles
+"SW1,",SW_Rotary8,"8 position rotary switch, I used SRBV181004"
+"U1,",MCP6004,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm
+"U2,",TL074,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm
+"U3,",CD4532BM,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+"U4,",fv1_breakout,From Electro-Smith FV-1 Submodule
